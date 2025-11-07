@@ -1,0 +1,12 @@
+{
+  "domains": [
+    {"domain": "www.energy.gov", "title": "U.S. Department of Energy"},
+    {"domain": "www.epa.gov", "title": "U.S. Environmental Protection Agency"},
+    {"domain": "www.iea.org", "title": "International Energy Agency"}
+  ],
+  "seed_urls": [
+    "https://www.energy.gov/eere/vehicles/articles/fact-863-electric-vehicle-sales-trends",
+    "https://www.epa.gov/greenvehicles/electric-vehicle-myths",
+    "https://www.iea.org/reports/global-ev-outlook-2024"
+  ]
+}
